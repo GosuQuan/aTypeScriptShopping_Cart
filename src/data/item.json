@@ -2,25 +2,31 @@
     {
         "id":1,
         "name":"book",
-        "price":10.99,
-        "imgUrl":"../images/image/0_0.png"
+        "price":2.99,
+        "imgUrl":"../../public/img/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
     },
     {
         "id":2,
         "name":"computer",
         "price":10.99,
-        "imgUrl":"..."
+        "imgUrl":"../../public/img/9c944e2afb568354.jpg.avif"
     },
     {
         "id":3,
         "name":"banana",
         "price":10.99,
-        "imgUrl":"..."
+        "imgUrl":"../../public/img/banana.jpg"
     },
     {
         "id":4,
         "name":"customers service",
         "price":10.99,
-        "imgUrl":"..."
+        "imgUrl":"../../public/img/customer-service-skills.png"
+    },
+    {
+        "id":5,
+        "name":"macBook",
+        "price":129,
+        "imgUrl":"../../public/img/camera_screen__e0y48ei4zrma_medium.jpg"
     }
 ]
